@@ -1,3 +1,4 @@
-# Title of Program
+# Chattrbox
 
-Description:
+A chat app built in Node.js. Runs on a websocket server. 
+
